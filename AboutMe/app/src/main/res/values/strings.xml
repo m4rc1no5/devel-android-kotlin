@@ -2,4 +2,10 @@
     <string name="app_name">About Me</string>
     <string name="star_description">gwiazdka</string>
     <string name="name">Marcin</string>
+    <string name="bio">
+        Gratulacje z okazji ukończenia 40-ego biegu w ramach wszystkich ukończonych biegów parkrun oraz 9-ego biegu w ramach parkrun Gdańsk! Bieg ukończyłe(a)ś na 4-ej pozycji spośród ogólnej liczby 103 uczestników, którzy ukończyli bieg. Wśród uczestników Twojej płci bieg ukończyłe(a)ś jako 4ty mężczyzna. Bieg ukończyłe(a)ś jako 1-ej wśród uczestników zarejestrowanych w Twojej kategorii wiekowej VM40-44, którzy ukończyli bieg w dniu dzisiejszym. Gratulujemy ustanawiając nowy rekord życiowy w tym przypadku! Gratulacje z okazji ustanowienia w dniu dzisiejszym najlepszego tegorocznego rezultatu w ramach parkrun. W dniu dzisiejszym osiągnąłe(a)aś 71.78% najlepszego wyniku uzyskanego na świecie na tym dystansie dla Twojej płci oraz kategorii wiekowej. Więcej informacji na temat tej statystyki dostępnych jest tutaj. Pełne rezultaty biegu możesz zobaczyć tutaj.
+        Gratulacje z okazji ukończenia 40-ego biegu w ramach wszystkich ukończonych biegów parkrun oraz 9-ego biegu w ramach parkrun Gdańsk! Bieg ukończyłe(a)ś na 4-ej pozycji spośród ogólnej liczby 103 uczestników, którzy ukończyli bieg. Wśród uczestników Twojej płci bieg ukończyłe(a)ś jako 4ty mężczyzna. Bieg ukończyłe(a)ś jako 1-ej wśród uczestników zarejestrowanych w Twojej kategorii wiekowej VM40-44, którzy ukończyli bieg w dniu dzisiejszym. Gratulujemy ustanawiając nowy rekord życiowy w tym przypadku! Gratulacje z okazji ustanowienia w dniu dzisiejszym najlepszego tegorocznego rezultatu w ramach parkrun. W dniu dzisiejszym osiągnąłe(a)aś 71.78% najlepszego wyniku uzyskanego na świecie na tym dystansie dla Twojej płci oraz kategorii wiekowej. Więcej informacji na temat tej statystyki dostępnych jest tutaj. Pełne rezultaty biegu możesz zobaczyć tutaj.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
